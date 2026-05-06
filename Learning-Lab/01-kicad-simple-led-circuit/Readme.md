@@ -24,13 +24,16 @@ This is a basic circuit showing how to connect an LED to a power source with a c
 ## Design Process
 The board was designed in KiCad following these steps:
  
-1. **Schematic Capture:** <p align="justify"> Drew the circuit diagram, placed the battery, resiator, and LED symbols, and connected their pins with wires. Annotated the schematic to give components values (resistor value = 470 (ohm), battery value = 9V, LED value = 2V RED). 
+1. **Schematic Capture:** <p align="justify"> Drew the circuit diagram, placed the battery, resiator, and LED symbols, and connected their pins with wires. Annotated the schematic to give components unique values (resistor value = 470 (ohm), battery value = 9V, LED value = 2V RED). 
 </p> 
 
-<p align="justify">
-
-2. **Footprint Assignment:** 
+2. **Footprint Assignment:** <p align="justify"> Assigned physical footprints from the KiCad library to each schematic symbol (e.g., a ***Resistor_THT*** footprint for the resistor, ***LED_THT*** for the LED, and a ***Connector_PinHeader_2.54mm*** for the battery connection). 
 </p>
+
+3. **Electrical Rules Check (ERC):** <p align="justify"> Checked the schematic to confirm no electrical errors were present.
+</p>
+
+4. **Bill of Materials (BOM):** 
 
 ---
 

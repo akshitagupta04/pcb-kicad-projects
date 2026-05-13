@@ -2,7 +2,7 @@
 
 ## Overview
 <p align="justify">
-This project is my first complete Printed Circuit Board (PCB) design, created entirely in KiCad 9.0. It is simple LED circuit based on a beginner tutorial. The project involved drawing a schematic, designing the board layout, and generating the manufacturing files. 
+This project is my first complete 2-layer Printed Circuit Board (PCB) design, created entirely in KiCad 9.0. It is simple LED circuit based on a beginner tutorial. The project involved drawing a schematic, designing the board layout, and generating the manufacturing files. 
 </p> 
 
 ---

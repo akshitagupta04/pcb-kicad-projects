@@ -1,7 +1,7 @@
-# Hardware Design (PCB) – KiCad Projects
+# PCB Design – KiCad Projects
 
 <p align="justify">
-Hands-on Hardware design (PCB) projects created in KiCad 9.0, including schematic capture, component to footprint mapping, PCB layout, design rule checking, and generation of manufacturing output, with ongoing self-learning in hardware design.
+Actively developing PCB design projects including schematic capture, custom symbol & footprint, PCB layout, DRC, and generating gerber files & BOM in the KiCad 9.0. 
 </p>
 
 This repository is organized as follows: 

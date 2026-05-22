@@ -1,7 +1,7 @@
 # PCB Design – KiCad Projects
 
 <p align="justify">
-Actively developing PCB design projects including schematic capture, custom symbol & footprint, PCB layout, DRC, and generating gerber files & BOM in the KiCad 9.0. 
+Actively developing 2-layer/4-layer PCB design projects including schematic capture, custom symbol & footprint, PCB layout, DRC, BOM generation and generating gerber files in the KiCad 9.0.
 </p>
 
 This repository is organized as follows: 

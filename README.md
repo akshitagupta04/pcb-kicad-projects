@@ -6,6 +6,6 @@ Actively developing hardware (2-layer PCB) design projects including schematic c
 
 This repository is organized as follows: 
 
-- **Learning Lab:** Basic, foundational hardware design projects.
-- **Skill Development:** Projects from training or coursework.
-- **Projects** Personal hardware design projects. 
+- **Learning Lab:** Basic, foundational PCB design projects.
+- **Skill Development:** Intermediate or advance level projects from training or tutorial.
+- **Projects** Personal PCB design projects. 

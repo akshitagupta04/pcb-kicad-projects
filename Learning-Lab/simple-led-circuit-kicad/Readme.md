@@ -53,9 +53,9 @@ The board was designed in KiCad following these steps:
 ## Repository Structure
 
 ```text
-/01-kicad-simple-led-circuit/
- ├────── gerber-files/   # Manufacturing files (Gerber, Drill and Footprint position)
- ├────── pcb-layout/     # Board layout files
+/simple-led-circuit-kicad/
+ ├────── gerber-files/   # Manufacturing files (Gerber, Drill and Fabrication position)
+ ├────── pcb-layout/     # Board layout file
  ├────── schematic/      # schematic and BOM files
  ├────── system-design/  # images of the board from 3D view
  └────── Readme.md       # Readme file 
@@ -74,4 +74,3 @@ This design was made by following the tutorial below. The project structure and 
 
 - **Tutorial:** [KiCad Tutorial: Make Your First Printed Circuit Board](https://www.build-electronic-circuits.com/kicad-tutorial/)
 - **Author:** Oyvind Dahl, Build Electronic Circuits
- 
